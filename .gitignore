@@ -11,6 +11,19 @@ backend/yarn-debug.log*
 backend/yarn-error.log*
 backend/lerna-debug.log*
 
+# compiled output
+frontend/dist/
+frontend/node_modules
+
+# Logs
+frontend/logs
+frontend/*.log
+frontend/npm-debug.log*
+frontend/pnpm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/lerna-debug.log*
+
 # OS
 .DS_Store
 
